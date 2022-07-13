@@ -17,5 +17,5 @@ Na última etapa estudamos métricas para avaliar os modelos:
 * Matriz de confusão
 * Accuracy Score
 * Precision Score
-* Recall Score
+* Recall Score </br>
 Nesta avaliação concluímos que a melhor métrica para avaliar o melhor modelo seria a Precision Score, pois ela mostra a qualidade dos valores Churn Positivo, métrica que a empresa precisa reduzir. O melhor modelo nesse quesito foi o DTC.
