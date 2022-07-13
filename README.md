@@ -12,7 +12,7 @@ Este curso utilizou 3 modelos de classificação em um problema de Churn (1 ou 0
 Os modelos estudados foram obtidos da biblioteca Sklearn:
 * KNN
 * BNB
-* DTC
+* DTC </br>
 Na última etapa estudamos métricas para avaliar os modelos:
 * Matriz de confusão
 * Accuracy Score
