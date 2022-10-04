@@ -40,6 +40,7 @@ Este curso teve como objetivo a implementação de um algorimo de Random Forest 
 * RFE
 * RFECV
 * PCA
+
 Ao final, aplicou-se o algoritmo t-SNE para possibilitar que dados multivariados fossem vistos no plano.
 
 O material produzido no curso encontra-se no notebook [[machine_learning_modelo_multivariado.ipynb]](https://github.com/conradoov/formacao_machine_learning_alura/blob/main/machine_learning_modelo_multivariado.ipynb)
